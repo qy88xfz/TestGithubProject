@@ -12,5 +12,6 @@ public class DeptController {
         System.out.println("测试github提交111");
         System.out.println("测试合并分支111");
         System.out.println("6666");
+        System.out.println("666666666");
     }
 }
