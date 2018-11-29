@@ -11,5 +11,6 @@ public class DeptController {
     public static void main(String[] args) {
         System.out.println("测试github提交111");
         System.out.println("测试合并分支111");
+        System.out.println(12323);
     }
 }
